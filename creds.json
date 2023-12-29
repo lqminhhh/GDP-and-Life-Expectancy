@@ -1,0 +1,7 @@
+{
+    "sqlite_country": {
+      "dbdir": ".",
+      "database": "country",
+      "scheme": "sqlite"
+    }
+  }
